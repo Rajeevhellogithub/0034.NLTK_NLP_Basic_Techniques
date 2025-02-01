@@ -6,7 +6,7 @@ This file demonstrates various Natural Language Processing (NLP) techniques usin
 
 # NLTK_CountVectorizer_GaussianNB
 
-This code performs sentiment analysis on restaurant reviews. It preprocesses text data (cleaning, lowercasing, stemming, stop word removal), converts it to a numerical representation using CountVectorizer, trains a Gaussian Naive Bayes classifier on the data, and evaluates the model using a confusion matrix.  It also saves the processed data and the vectorized features to CSV files.
+This file performs sentiment analysis on restaurant reviews. It preprocesses text data (cleaning, lowercasing, stemming, stop word removal), converts it to a numerical representation using CountVectorizer, trains a Gaussian Naive Bayes classifier on the data, and evaluates the model using a confusion matrix.  It also saves the processed data and the vectorized features to CSV files.
 
 # NLP_Transformers (Completed in Colab)
 
